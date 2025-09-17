@@ -1,1 +1,3 @@
-# core.darkskullz9.com
+# CORE.DARKSKULLZ9
+
+## Laptop CPU list
